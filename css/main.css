@@ -1,9 +1,9 @@
 body{
     padding: 20px 50px;
-    color: red;
-    background-color: yellow;
+    color: black;
+    background-color: white;
 }
 
 .title {
-    font: 30px;
+    font-size: 30px;
 }
