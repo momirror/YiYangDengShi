@@ -547,6 +547,8 @@ ul.nav-bottom li:nth-child(1){
 }
 .copy{
 	float:left;
+	text-align: center;
+	width: 100%;
 }
 .copy p{
 	color:#fff;
