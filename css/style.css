@@ -1860,6 +1860,12 @@ label {
 }
 /*--//login--*/
 /*--responsive--*/
+@media (min-width: 1081px) {
+  .banner1, .banner2, .banner3 {
+    min-height: 920px;
+  }
+}
+
 @media (max-width: 1440px){
 }
 @media (max-width: 1366px){
